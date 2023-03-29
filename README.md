@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 💫 About Me:
 Software Engineer from Ukraine 👨‍💻 🇺🇦<br><br>⚡ Eager to learn, create and discover, interested in new concepts and technologies in programming.<br>🔥 Great team player with strong self-motivation, collaboration and communication skills.<br>🔮 Strive for perfection.
 
